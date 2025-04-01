@@ -1,0 +1,5 @@
+streamlit
+transformers
+huggingface-hub
+google-generativeai
+python-dotenv
